@@ -1,0 +1,17 @@
+node_modules
+build
+dist
+.vscode
+__pycache__
+*.pyc
+Skin Disease Dataset/
+ml/Skin Disease Dataset/
+.venv/
+.env
+.env.local
+.env.*.local
+*.env
+.env*
+*.env*
+
+.vercel
